@@ -1,6 +1,6 @@
 Sebastian Cojocariu 311CB UPB ACS
 
-			              Eigenvalues and eigenvectors
+			              	Eigenvalues and eigenvectors
 
 1)Calculam valorile lui lambda in polinoamele construite(polinoame Sturm),cu mentiunea ca indicele incepe de la 1 si nu de la 0(Conform relatiei de recurenta data)
 2)Generam vectorul de valori pentru valoarea lambda data.De fiecare daca cand semnul a 2 termeni alaturati e diferit sau cel de dupa el e 0 incrementam numvp.
